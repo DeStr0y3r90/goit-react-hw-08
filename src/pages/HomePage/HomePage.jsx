@@ -10,7 +10,7 @@ export default function HomePage() {
         <h1 className={css.title}>
           Phonebook{' '}
           <span role="img" aria-label="Greeting icon">
-          💁‍♀️
+          
           </span>
         </h1>
         <p className={css.description}>This is your contact book. </p>
